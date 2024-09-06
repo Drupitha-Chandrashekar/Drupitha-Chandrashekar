@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/drupitha-chandrashekar-47511a25b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drupitha chandrashekar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/drupitha-chandrashekar-47511a25b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drupitha chandrashekar" height="30" width="40" /></a>
 <a href="https://kaggle.com/drupitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="drupitha" height="30" width="40" /></a>
 <a href="https://instagram.com/drupitha_chandrashekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drupitha_chandrashekar" height="30" width="40" /></a>
 </p>
