@@ -1,3 +1,4 @@
+![logo](https://github.com/Drupitha-Chandrashekar/Drupitha-Chandrashekar/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Drupitha Chandrashekar</h1>
 <h3 align="center">A Tech Enthusiast with a growing passion for AI, ML and development </h3>
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQGCmJXGMpuD8Q/article-cover_image-shrink_720_1280/0/1688366155271?e=2147483647&v=beta&t=OunzmBZhK7aEF1XBJ8cYcFRH7_ocYZstgvt0PQSQgBU" />
