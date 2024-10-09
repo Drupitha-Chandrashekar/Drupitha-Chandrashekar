@@ -33,4 +33,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drupitha-chandrashekar&show_icons=true&locale=en" alt="drupitha-chandrashekar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drupitha-chandrashekar&" alt="drupitha-chandrashekar" /></p>
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drupitha-chandrashekar&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drupitha-chandrashekar&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drupitha-chandrashekar&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=drupitha-chandrashekar&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=drupitha-chandrashekar&theme=github_dark" />
+</div>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drupitha-chandrashekar" alt="drupitha-chandrashekar" /></a> </p>
