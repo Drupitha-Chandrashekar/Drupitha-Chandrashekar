@@ -45,8 +45,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drupitha-chandrashekar" alt="drupitha-chandrashekar" /></a> </p>
 <hr>
-<h3>:zap: Open Source Programs & Achievements</h3>
-<h4>Hacktober Fest</h4>
+<h4>:zap: Open Source Programs & Achievements</h3>
+<img src="/_next/static/media/logo-hacktoberfest-11--beige.2b2fdfcb.svg" alt="Hacktoberfest 11" width="198" height="80">
 
 <br>
 <a href="https://holopin.me/drupitha">   <img src="https://holopin.me/drupitha" alt="@@drupitha Holopin board" /> </a>
